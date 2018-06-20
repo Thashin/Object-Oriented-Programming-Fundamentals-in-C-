@@ -1,9 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ACM.BL
 {
     public class Customer
     {
+        public Customer()
+        {
+
+
+        }
+
+        public Customer(int customerId)
+        {
+            this.CustomerId = customerId;
+        }
         public static int instanceCount { get; set; }
         private string _lastName;
         public string LastName
@@ -35,6 +46,28 @@ namespace ACM.BL
                 }
                 return fullName;
             }
+        }
+
+        public Customer Retrieve(int customerId)
+        {
+            return new Customer();
+        }
+
+        public List<Customer> Retrieve()
+        {
+            return new List<Customer>();
+        }
+
+        public bool Save()
+        {
+            return true;
+        }
+
+        public Boolean Validate()
+        {
+            var isValid = true;
+            if (string.IsNullOrWhiteSpace(LastName) || string.IsNullOrWhiteSpace(EmailAddress)) isValid = false;
+            return isValid;
         }
     }
 }
