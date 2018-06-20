@@ -1,0 +1,9 @@
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojAssemblyReference.cache
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\tnaidoo\Documents\GitHub\Object-Oriented-Programming-Fundamentals-in-C-\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
